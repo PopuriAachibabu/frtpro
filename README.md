@@ -1,4 +1,4 @@
-Here I can create A Food Store Which Can Order Different Recipes And Learn Categories Of Food Available. Description: 1.Food is any substance consumed to provide nutritional support and energy to an organism. 2.It can be raw, processed or formulated and is consumed orally by animals for growth, health or pleasure. 3.Food is mainly composed of water, lipids, proteins and carbohydrates.
+Most successful fashion bloggers promote sponsored content where brands pay them to promote products. Paid and sponsored content is the major source of revenue for many fashion bloggers. Here we will list the most effective ways you can start making money from your fashion blog when you're first starting out.
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
@@ -8,11 +8,11 @@ IDE: VS-Code
 
 Industry : Lifestyle
 
-Project Title : Foodie
+Project Title : FashionBlog
 
-Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+Problem Statement/Opportunity : Most successful fashion bloggers promote sponsored content where brands pay them to promote products.
 
-Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+Project Description : Paid and sponsored content is the major source of revenue for many fashion bloggers.
 
 Primary Azure Technology : Static Web Apps, App Service
 
